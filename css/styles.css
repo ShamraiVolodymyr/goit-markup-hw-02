@@ -1,8 +1,49 @@
 :root {
-  --
+  --main-title-color: #ffffff;
+  --second-title-color: #212121;
+  --main-text-color: #757575;
+  --second-text-color: #212121;
+  --header-list-color: #212121;
+  --header-link-color: #212121;
+  --footer-link-color: rgba(255, 255, 255, 0.6);
+  --accent-color: #2196f3;
+  --main-btn-color: #757575;
 }
 
 body {
-  font-family: "Roboto", sans-serif: 
-  color: #212121;
+  font-family: "Roboto", sans-serif;
+}
+
+.list {
+  list-style: none;
+  cursor: pointer;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.header-link {
+  font-weight: 500px;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 2%;
+  color: var(--header-link-color);
+}
+
+.header-btn {
+  font-family: inherit;
+  font-weight: 500px;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 2%;
+  color: var(--main-btn-color);
+}
+
+.header-tel {
+  font-weight: 500px;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 2%;
+  color: var(--header-list-color);
 }
