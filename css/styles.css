@@ -34,6 +34,7 @@ body {
   letter-spacing: 3%;
   color: var(--logo-color);
 }
+
 .span {
   font-family: Raleway;
   font-weight: 700px;
@@ -74,7 +75,7 @@ body {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 2%;
-  color: var(--second-text-color);
+  color: var(--main-btn-color);
 }
 
 .header-btn:active {
@@ -104,6 +105,7 @@ body {
   background-color: var(--logo-color);
   color: var(--main-title-color);
 }
+
 .hero-btn:hover,
 .hero-btn:focus {
   color: var(--second-title-color);
@@ -181,6 +183,7 @@ body {
   letter-spacing: 3%;
   color: var(--logo-color);
 }
+
 .footer-span {
   font-family: Raleway;
   font-weight: 700px;
@@ -195,6 +198,159 @@ body {
 }
 
 .footer-link {
+  font-weight: 400px;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 3%;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-link-adress {
+  font-weight: 400px;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 3%;
+  color: var(--main-title-color);
+}
+
+/*---------------------SECOND PAGE----------*/
+/*--------------------PORT-HEADER-----------*/
+
+.port-header-logo {
+  font-family: Raleway;
+  font-weight: 700px;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 3%;
+  color: var(--logo-color);
+}
+
+.port-header-logo:focus {
+  color: var(--accent-color);
+}
+
+.port-header-link {
+  font-weight: 500px;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 2%;
+  color: var(--second-text-color);
+}
+
+.port-header-link:hover,
+.port-header-link:focus {
+  color: var(--accent-color);
+}
+
+.port-header-btn:hover,
+.port-header-btn:focus {
+  color: var(--accent-color);
+}
+
+.port-header-tel:hover,
+.port-header-tel:focus {
+  color: var(--accent-color);
+}
+
+.port-header-btn {
+  font-family: inherit;
+  font-weight: 500px;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 2%;
+  color: var(--main-btn-color);
+}
+
+.port-header-btn:active {
+  color: var(--accent-color);
+}
+
+.port-header-tel {
+  font-family: inherit;
+  font-weight: 500px;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 2%;
+  color: var(--main-btn-color);
+}
+
+/*--------------POTR-BUTTON-----------------------*/
+.port-item-btn {
+  font-family: inherit;
+  font-weight: 500px;
+  font-size: 16px;
+  line-height: 1.62;
+  letter-spacing: 3%;
+  color: var(--second-text-color);
+}
+.port-item-btn:hover,
+.port-item-btn:focus {
+  color: var(--main-title-color);
+}
+
+.port-btn:active {
+  background-color: var(--accent-color);
+}
+.port-btn:active {
+  color: var(--main-title-color);
+}
+
+/*-----------POTRFOLIO-------------------------*/
+
+.port-text {
+  visibility: hidden;
+}
+.port-about-text {
+  font-weight: 700px;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 6%;
+  color: var(--second-text-color);
+}
+.name-work {
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 1.87;
+  letter-spacing: 3%;
+  color: var(--main-text-color);
+}
+/*----------------PORT-FOOTER--------------------*/
+
+.port-footer {
+  background-color: #757575;
+}
+
+.port-footer-logo {
+  font-family: Raleway;
+  font-weight: 700px;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 3%;
+  color: var(--logo-color);
+}
+
+.port-footer-span {
+  font-family: Raleway;
+  font-weight: 700px;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 3%;
+  color: var(--main-title-color);
+}
+
+.port-footer-logo:focus {
+  color: var(--accent-color);
+}
+
+.port-footer-link {
+  font-weight: 400px;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 3%;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.port-footer-link-adress {
   font-weight: 400px;
   font-size: 14px;
   line-height: 1.71;
