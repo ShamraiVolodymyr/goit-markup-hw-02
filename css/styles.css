@@ -28,19 +28,23 @@ body {
 
 .header-logo {
   font-family: Raleway;
-  font-weight: 700px;
+  font-family: inherit;
+  font-style: normal;
+  font-weight: bold;
   font-size: 26px;
   line-height: 1.19;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--logo-color);
 }
 
 .span {
   font-family: Raleway;
-  font-weight: 700px;
+  font-family: inherit;
+  font-style: normal;
+  font-weight: bold;
   font-size: 26px;
   line-height: 1.19;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--second-title-color);
 }
 
@@ -49,10 +53,10 @@ body {
 }
 
 .header-link {
-  font-weight: 500px;
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: var(--second-text-color);
 }
 .header-link:hover,
@@ -71,10 +75,10 @@ body {
 }
 .header-btn {
   font-family: inherit;
-  font-weight: 500px;
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: var(--main-btn-color);
 }
 
@@ -84,10 +88,10 @@ body {
 
 .header-tel {
   font-family: inherit;
-  font-weight: 500px;
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: var(--main-btn-color);
 }
 
@@ -98,10 +102,10 @@ body {
 
 .hero-btn {
   font-family: inherit;
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
-  letter-spacing: 6%;
+  letter-spacing: 0.06em;
   background-color: var(--logo-color);
   color: var(--main-title-color);
 }
@@ -113,60 +117,60 @@ body {
 
 .document-title {
   font-family: inherit;
-  font-weight: 900px;
+  font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
-  letter-spacing: 6%;
+  letter-spacing: 0.06em;
   color: var(--main-title-color);
 }
 
 .hero-title {
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--second-text-color);
 }
 
 .hero-post-title {
-  font-weight: 400px;
+  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--main-text-color);
 }
 
 /*----------------------ABOUT---------------------*/
 .about-title {
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--second-text-color);
 }
 
 /*---------------------COMMAND---------------------*/
 .command-title {
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--second-text-color);
 }
 
 .command-title-name {
-  font-weight: 500px;
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--second-text-color);
 }
 
 .command-position {
-  font-weight: 400px;
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.17;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--main-text-color);
 }
 
@@ -177,19 +181,21 @@ body {
 
 .footer-logo {
   font-family: Raleway;
-  font-weight: 700px;
+  font-family: inherit;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--logo-color);
 }
 
 .footer-span {
   font-family: Raleway;
-  font-weight: 700px;
+  font-family: inherit;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--main-title-color);
 }
 
@@ -198,18 +204,20 @@ body {
 }
 
 .footer-link {
-  font-weight: 400px;
+  font-style: normal;
+  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
 
 .footer-link-adress {
-  font-weight: 400px;
+  font-style: normal;
+  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--main-title-color);
 }
 
@@ -218,10 +226,11 @@ body {
 
 .port-header-logo {
   font-family: Raleway;
-  font-weight: 700px;
+  font-family: inherit;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--logo-color);
 }
 
@@ -230,10 +239,11 @@ body {
 }
 
 .port-header-link {
-  font-weight: 500px;
+  font-family: inherit;
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: var(--second-text-color);
 }
 
@@ -254,10 +264,10 @@ body {
 
 .port-header-btn {
   font-family: inherit;
-  font-weight: 500px;
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: var(--main-btn-color);
 }
 
@@ -267,20 +277,20 @@ body {
 
 .port-header-tel {
   font-family: inherit;
-  font-weight: 500px;
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: var(--main-btn-color);
 }
 
-/*--------------POTR-BUTTON-----------------------*/
+/*--------------PORT-BUTTON-----------------------*/
 .port-item-btn {
   font-family: inherit;
-  font-weight: 500px;
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--second-text-color);
 }
 .port-item-btn:hover,
@@ -301,17 +311,17 @@ body {
   visibility: hidden;
 }
 .port-about-text {
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 18px;
   line-height: 2;
-  letter-spacing: 6%;
+  letter-spacing: 0.06em;
   color: var(--second-text-color);
 }
 .name-work {
-  font-weight: 400px;
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.87;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--main-text-color);
 }
 /*----------------PORT-FOOTER--------------------*/
@@ -322,19 +332,21 @@ body {
 
 .port-footer-logo {
   font-family: Raleway;
-  font-weight: 700px;
+  font-family: inherit;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--logo-color);
 }
 
 .port-footer-span {
   font-family: Raleway;
-  font-weight: 700px;
+  font-family: inherit;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--main-title-color);
 }
 
@@ -343,17 +355,19 @@ body {
 }
 
 .port-footer-link {
-  font-weight: 400px;
+  font-style: normal;
+  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
 
 .port-footer-link-adress {
-  font-weight: 400px;
+  font-style: normal;
+  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: var(--main-title-color);
 }
