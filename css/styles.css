@@ -27,10 +27,10 @@ body {
 /* -----------------HEADER-------------------- */
 
 .header-logo {
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-family: inherit;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
@@ -38,10 +38,10 @@ body {
 }
 
 .span {
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-family: inherit;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
@@ -180,7 +180,7 @@ body {
 }
 
 .footer-logo {
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-family: inherit;
   font-weight: 700;
   font-size: 26px;
@@ -190,7 +190,7 @@ body {
 }
 
 .footer-span {
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-family: inherit;
   font-weight: 700;
   font-size: 26px;
@@ -225,8 +225,9 @@ body {
 /*--------------------PORT-HEADER-----------*/
 
 .port-header-logo {
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-family: inherit;
+  font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -285,14 +286,15 @@ body {
 }
 
 /*--------------PORT-BUTTON-----------------------*/
-.port-item-btn {
-  font-family: inherit;
+.port-btn {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
   letter-spacing: 0.03em;
   color: var(--second-text-color);
 }
+
 .port-item-btn:hover,
 .port-item-btn:focus {
   color: var(--main-title-color);
@@ -331,7 +333,7 @@ body {
 }
 
 .port-footer-logo {
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-family: inherit;
   font-weight: 700;
   font-size: 26px;
@@ -341,7 +343,7 @@ body {
 }
 
 .port-footer-span {
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-family: inherit;
   font-weight: 700;
   font-size: 26px;
