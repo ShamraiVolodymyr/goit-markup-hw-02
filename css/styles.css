@@ -57,6 +57,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--second-text-color);
 }
+
 .header-link:hover,
 .header-link:focus {
   color: var(--accent-color);
@@ -71,6 +72,7 @@ body {
 .header-tel:focus {
   color: var(--accent-color);
 }
+
 .header-btn {
   font-family: inherit;
   font-weight: 500;
