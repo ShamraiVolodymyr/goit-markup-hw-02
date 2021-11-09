@@ -24,11 +24,10 @@ body {
   text-decoration: none;
 }
 
-/* -----------------HEADER-------------------- */
+/* ---------------------HEADER------------------------ */
 
 .header-logo {
   font-family: "Raleway", sans-serif;
-  font-family: inherit;
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
@@ -39,7 +38,6 @@ body {
 
 .span {
   font-family: "Raleway", sans-serif;
-  font-family: inherit;
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
@@ -181,7 +179,7 @@ body {
 
 .footer-logo {
   font-family: "Raleway", sans-serif;
-  font-family: inherit;
+  font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -191,7 +189,7 @@ body {
 
 .footer-span {
   font-family: "Raleway", sans-serif;
-  font-family: inherit;
+  font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -226,7 +224,6 @@ body {
 
 .port-header-logo {
   font-family: "Raleway", sans-serif;
-  font-family: inherit;
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
@@ -288,6 +285,7 @@ body {
 /*--------------PORT-BUTTON-----------------------*/
 .port-btn {
   font-family: "Roboto", sans-serif;
+  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
@@ -334,7 +332,7 @@ body {
 
 .port-footer-logo {
   font-family: "Raleway", sans-serif;
-  font-family: inherit;
+  font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -344,7 +342,7 @@ body {
 
 .port-footer-span {
   font-family: "Raleway", sans-serif;
-  font-family: inherit;
+  font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
